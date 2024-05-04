@@ -11,7 +11,7 @@ const Header = () => {
             </IconButton>
             <img className="header.logo" src="logo192-png" alt="header"/>
             <IconButton>
-                <ForumIcon fontSize-"large" className-"header_icon" />
+                <ForumIcon fontSize="large" className="header_icon" />
             </IconButton>
         </div>
     )
